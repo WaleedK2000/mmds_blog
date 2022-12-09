@@ -15,8 +15,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
+      introTitle = "Hey! I'm Waleed"
+      introSubtitle = "I'm currently studying CS in FAST University Islamabad Campus"
       introPhoto = "/picture.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
@@ -33,12 +33,6 @@ DefaultContentLanguageInSubdir = true
         name = "Tags"
         url = "tags"
         weight = 3
-
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
-        weight = 4
-
   
 [params]
   # Enable the darkmode toggle in header
